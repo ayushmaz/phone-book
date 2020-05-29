@@ -3,6 +3,6 @@
 Stack Used : - Postgresql, Express ,Node JS , React JS
 github link of front end :- https://github.com/ayushmaz/phone-book-react
 
-![Screenshot (39)](https://user-images.githubusercontent.com/43086706/83256590-4fa98280-a1d0-11ea-886f-8e72370dd4ec.png)
-![Screenshot (40)](https://user-images.githubusercontent.com/43086706/83256599-5506cd00-a1d0-11ea-85d8-7d7273e5b33e.png)
-![Screenshot (41)](https://user-images.githubusercontent.com/43086706/83256601-5637fa00-a1d0-11ea-843e-c715c45c1318.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/43086706/83256765-aa42de80-a1d0-11ea-81d7-5860a67c86ea.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/43086706/83256769-ab740b80-a1d0-11ea-9510-9f8a73647a4f.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/43086706/83256771-ab740b80-a1d0-11ea-9556-77f958f45077.png)
